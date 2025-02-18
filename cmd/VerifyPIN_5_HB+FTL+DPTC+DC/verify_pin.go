@@ -87,8 +87,8 @@ func VerifyPIN() HardendBool {
                 ptc = 3;
                 return TrueHB;
             } else {
-				TriggerCountermeasure()
-			}
+		TriggerCountermeasure()
+            }
         }
     }
 
